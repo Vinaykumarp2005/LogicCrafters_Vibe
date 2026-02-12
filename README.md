@@ -317,3 +317,8 @@ Optionally, create `sefs_config.json` in the project root to persist settings:
 This project is licensed under the **MIT License**.
 
 ![0dcb0809-36b2-4882-acb7-70edfeadc17e](https://github.com/user-attachments/assets/97eff071-77a5-4b9a-b1bb-fb11baf8f001)
+
+![91c0c5f9-6006-4564-bf90-59fff4e99480](https://github.com/user-attachments/assets/7a28e332-5ed4-4289-866c-def5db72b585)
+
+![29a62012-4e0d-4f6b-b597-8696155c4a01](https://github.com/user-attachments/assets/a144e629-07f5-4d43-ab7a-3f0af993c771)
+
