@@ -1,3 +1,5 @@
+DEMO VIDEO LINK - https://drive.google.com/drive/folders/1N5rI6bR236d54dAMu6QQFAmhSkAatblm?usp=sharing
+
 # SEFS — Semantic Entropy File System
 
 > **Team:** LogicCrafters
