@@ -1,0 +1,28 @@
+3. Why it matters for CSE Students
+For someone studying Computer Science, vibe coding represents a move toward Systems Thinking.
+
+Rapid Prototyping: You can build a full-stack CRUD application in 15 minutes, allowing you to focus on the Product-Market Fit rather than debugging a semicolon.
+
+Abstraction: Much like we moved from Assembly to C++, and C++ to Python, Vibe Coding is the next layer of abstraction. You don't need to memorize every library; you need to understand the architecture so you can guide the AI when the "vibe" goes off-track.
+
+4. The Risks: "Vibe Shift" Failures
+Vibe coding isn't a silver bullet. There are significant technical hurdles:
+
+The "Hallucination" Wall: If the AI misunderstands the underlying logic, it can create "spaghetti code" that looks correct but fails in edge cases.
+
+Technical Debt: Because the human didn't write every line, they might not understand why the code works, making it harder to fix when the AI agent reaches its context window limit.
+
+Security: AI might introduce vulnerabilities that a "vibe-oriented" developer might overlook because the UI looks polished.
+
+5. The Future: Agentic AI Integration
+The next step in vibe coding involves Autonomous Agents. Imagine a system where you don't just describe the UI, but you give a goal: "Build a tool that monitors water-borne diseases in rural areas and sends alerts via SMS." The agent then:
+
+Researches the best SMS API.
+
+Writes the backend logic.
+
+Tests the connection.
+
+Deploys the site.
+
+In this world, your value isn't your ability to write a for-loop, but your ability to define the problem statement and verify the solution.

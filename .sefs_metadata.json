@@ -1,0 +1,24 @@
+{
+  "last_sync": "2026-02-12T17:34:32.268191",
+  "clusters": [
+    {
+      "id": 0,
+      "label": "Coding & Vibe",
+      "file_count": 2,
+      "files": [
+        "Vibe coding.txt",
+        "Why it matters.txt"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "Pollutants & Atmosphere",
+      "file_count": 2,
+      "files": [
+        "Global Consequences.txt",
+        "Pollution.txt"
+      ]
+    }
+  ],
+  "file_count": 4
+}

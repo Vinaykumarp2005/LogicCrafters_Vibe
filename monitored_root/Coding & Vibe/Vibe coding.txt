@@ -1,0 +1,21 @@
+"Vibe coding" is a burgeoning term in the software development world that describes a shift from writing code to steering it. It’s less about syntax and more about high-level intent, powered by the explosive growth of "Agentic AI" and natural language programming.
+
+Here is a breakdown of what makes vibe coding a distinct movement.
+
+1. The Core Philosophy: Language over Logic
+In traditional coding, the developer is a translator who turns human logic into machine-readable code. In Vibe Coding, the developer acts as a "Vibe Architect." You provide a vague, high-level description—a "vibe"—of what you want the software to do, and the AI (like Claude, GPT-4, or specialized agents) handles the heavy lifting of implementation.
+
+The Shift: From How (writing the algorithm) to What (describing the outcome).
+
+The Tooling: It relies heavily on tools like Cursor, Replit Agent, or Windsurf that allow for "natural language editing" across entire codebases.
+
+2. The Mechanism: Iterative Feedback Loops
+Vibe coding isn't "one-shot" generation where you press a button and get a finished app. It is an active conversation.
+
+Prompting: You describe a feature (e.g., "Make the login screen feel like a 90s vaporwave aesthetic").
+
+Observation: The AI generates the CSS, HTML, and Auth logic.
+
+Refining: You look at the result and say, "The purple is too bright, tone it down and add a CRT flicker effect."
+
+Convergence: The software "vibes" into existence through rapid iteration.
