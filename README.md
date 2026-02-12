@@ -275,6 +275,7 @@ python main.py --debug
 |---|---|---|
 | `connect` | Client → Server | Server responds with initial `graph_update` + `folder_update` |
 | `graph_update` | Server → Client | `{ nodes: [...], edges: [...] }` |
+
 | `folder_update` | Server → Client | `{ folders: [...] }` |
 | `status_update` | Server → Client | `{ file_count, cluster_count, ... }` |
 | `request_rescan` | Client → Server | Triggers full pipeline |
@@ -314,3 +315,5 @@ Optionally, create `sefs_config.json` in the project root to persist settings:
 ## License
 
 This project is licensed under the **MIT License**.
+
+![0dcb0809-36b2-4882-acb7-70edfeadc17e](https://github.com/user-attachments/assets/97eff071-77a5-4b9a-b1bb-fb11baf8f001)
